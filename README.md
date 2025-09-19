@@ -68,7 +68,6 @@ python main.py
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Interactive Tableau dashboard analyzing travel patterns from 139 trips across 60+ destinations.
 
 ---
 *Portfolio project demonstrating end-to-end data science workflow*
