@@ -4,7 +4,6 @@ Processes raw travel data for Tableau dashboard analysis
 """
 
 import pandas as pd
-from pathlib import Path
 from cleaning_functions import clean_data
 
 def main():

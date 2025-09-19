@@ -4,18 +4,18 @@ import numpy as np
 # Mapping dictionaries for data cleaning and categorizing
 country_mapping = {
         'AUS': 'Australia', 'Aus': 'Australia', 'AU': 'Australia',
-        'Thai': 'Thailand', 'TH': 'Thailand',
+        'Thai': 'Thailand', 'TH': 'Thailand', 'Hawaii': 'United States',
         'SA': 'South Africa', 'RSA': 'South Africa',
         'UK': 'United Kingdom', 'GB': 'United Kingdom',
         'USA': 'United States', 'US': 'United States',
-        'UAE': 'United Arab Emirates',
+        'UAE': 'United Arab Emirates', 'Scotland': 'United Kingdom',
     }
 
 city_to_country_mapping = {
         'Paris': 'France', 'Rome': 'Italy', 'London': 'United Kingdom',
-        'Tokyo': 'Japan', 'Seoul': 'South Korea', 'Beijing': 'China',
+        'Tokyo': 'Japan', 'Seoul': 'South Korea', 'Beijing': 'China', 'Hawaii': 'United States',
         'Bangkok': 'Thailand', 'Phuket': 'Thailand', 'Singapore': 'Singapore', 'Mumbai': 'India',
-        'Dubai': 'United Arab Emirates', 'Sydney': 'Australia',
+        'Dubai': 'United Arab Emirates', 'Sydney': 'Australia', 'Scotland': 'United Kingdom',
         'Cape Town': 'South Africa', 'Cairo': 'Egypt', 'Phnom Penh': 'Cambodia', 'Santorini': 'Greece',
         'New York': 'United States', 'Toronto': 'Canada', 'Barcelona': 'Spain',
         'Mexico City': 'Mexico', 'Rio de Janeiro': 'Brazil', 'Bali': 'Indonesia', 'Amsterdam': 'Netherlands', 'Honolulu': 'Hawaii'
@@ -23,7 +23,8 @@ city_to_country_mapping = {
 transport_mapping = {
         'Flight': 'Air', 'Plane': 'Air', 'Airplane': 'Air',
         'Train': 'Rail', 'Subway': 'Rail',
-        'Bus': 'Ground', 'Car': 'Ground', 'Car rental': 'Ground'
+        'Bus': 'Ground', 'Car': 'Ground', 'Car rental': 'Ground',
+        'Ferry': 'Water'
     }
 season_mapping = {
         12: 'Winter', 1: 'Winter', 2: 'Winter',

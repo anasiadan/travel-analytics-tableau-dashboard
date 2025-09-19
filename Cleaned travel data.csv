@@ -11,10 +11,10 @@ Trip ID,Start date,End date,Duration (days),Traveler name,Traveler age,Traveler 
 10,2024-03-10,2024-03-17,7.0,Mohammed Ali,39.0,Male,Emirati,Resort,2500.0,Flight,800.0,United Arab Emirates,Dubai,Air,3300.0,471.43,March,Spring
 11,2024-04-01,2024-04-08,7.0,Ana Hernandez,27.0,Female,Mexican,Hotel,1000.0,Flight,500.0,Mexico,Cancun,Air,1500.0,214.29,April,Spring
 12,2024-05-15,2024-05-22,7.0,Carlos Garcia,36.0,Male,Spanish,Airbnb,800.0,Train,100.0,Spain,Barcelona,Rail,900.0,128.57,May,Spring
-13,2024-06-10,2024-06-18,8.0,Lily Wong,29.0,Female,Chinese,Resort,3000.0,Flight,1200.0,Hawaii,Honolulu,Air,4200.0,525.0,June,Summer
+13,2024-06-10,2024-06-18,8.0,Lily Wong,29.0,Female,Chinese,Resort,3000.0,Flight,1200.0,United States,Honolulu,Air,4200.0,525.0,June,Summer
 14,2024-07-01,2024-07-10,9.0,Hans Mueller,48.0,Male,German,Hotel,1400.0,Flight,700.0,Germany,Berlin,Air,2100.0,233.33,July,Summer
 15,2024-08-20,2024-08-27,7.0,Fatima Khouri,26.0,Female,Moroccan,Riad,600.0,Flight,400.0,Morocco,Marrakech,Air,1000.0,142.86,August,Summer
-16,2024-09-05,2024-09-12,7.0,James MacKenzie,32.0,Male,Scottish,Hotel,900.0,Train,150.0,Scotland,Edinburgh,Rail,1050.0,150.0,September,Fall
+16,2024-09-05,2024-09-12,7.0,James MacKenzie,32.0,Male,Scottish,Hotel,900.0,Train,150.0,United Kingdom,Edinburgh,Rail,1050.0,150.0,September,Fall
 17,2023-09-01,2023-09-10,9.0,Sarah Johnson,30.0,Female,American,Hotel,900.0,Plane,400.0,France,Paris,Air,1300.0,144.44,September,Fall
 18,2023-08-15,2023-08-25,10.0,Michael Chang,28.0,Male,Chinese,Resort,1500.0,Plane,700.0,Indonesia,Bali,Air,2200.0,220.0,August,Summer
 19,2023-07-22,2023-07-28,6.0,Olivia Rodriguez,35.0,Female,British,Hotel,1200.0,Train,150.0,United Kingdom,London,Rail,1350.0,225.0,July,Summer
@@ -24,7 +24,7 @@ Trip ID,Start date,End date,Duration (days),Traveler name,Traveler age,Traveler 
 23,2023-11-01,2023-11-08,7.0,Sofia Russo,29.0,Female,Italian,Airbnb,700.0,Train,80.0,Italy,Rome,Rail,780.0,111.43,November,Fall
 24,2023-09-15,2023-09-23,8.0,Raj Patel,40.0,Male,Indian,Hostel,400.0,Plane,500.0,Thailand,Bangkok,Air,900.0,112.5,September,Fall
 25,2023-12-22,2023-12-28,6.0,Lily Nguyen,24.0,Female,Vietnamese,Hotel,1400.0,Train,100.0,France,Paris,Rail,1500.0,250.0,December,Winter
-26,2023-08-01,2023-08-10,9.0,David Kim,34.0,Male,Korean,Resort,2000.0,Plane,800.0,Hawaii,Unknown,Air,2800.0,311.11,August,Summer
+26,2023-08-01,2023-08-10,9.0,David Kim,34.0,Male,Korean,Resort,2000.0,Plane,800.0,United States,Hawaii,Air,2800.0,311.11,August,Summer
 27,2023-10-20,2023-10-28,8.0,Maria Garcia,31.0,Female,Spanish,Hotel,1100.0,Train,150.0,Spain,Barcelona,Rail,1250.0,156.25,October,Fall
 28,2022-05-10,2022-05-18,8.0,Alice Smith,30.0,Female,American,Hotel,800.0,Plane,500.0,Japan,Unknown,Air,1300.0,162.5,May,Spring
 29,2022-06-15,2022-06-22,7.0,Bob Johnson,45.0,Male,Canadian,Hostel,200.0,Train,150.0,Thailand,Unknown,Rail,350.0,50.0,June,Summer
@@ -110,7 +110,7 @@ Trip ID,Start date,End date,Duration (days),Traveler name,Traveler age,Traveler 
 111,2022-06-10,2022-06-15,5.0,Emily Wong,38.0,Female,British,Hotel,900.0,Train,150.0,United Kingdom,London,Rail,1050.0,210.0,June,Summer
 112,2022-09-05,2022-09-12,7.0,Mark Tan,45.0,Male,Singaporian,Villa,2000.0,Plane,700.0,Thailand,Phuket,Air,2700.0,385.71,September,Fall
 113,2022-05-01,2022-05-08,7.0,Emma Lee,31.0,Female,Italian,Hotel,1100.0,Train,250.0,Italy,Rome,Rail,1350.0,192.86,May,Spring
-114,2022-07-15,2022-07-22,7.0,George Chen,27.0,Male,Greek,Airbnb,1000.0,Ferry,150.0,Greece,Santorini,,1150.0,164.29,July,Summer
+114,2022-07-15,2022-07-22,7.0,George Chen,27.0,Male,Greek,Airbnb,1000.0,Ferry,150.0,Greece,Santorini,Water,1150.0,164.29,July,Summer
 115,2022-08-25,2022-08-30,5.0,Sophia Kim,29.0,Female,Emirati,Hotel,1500.0,Car rental,300.0,United Arab Emirates,Dubai,Ground,1800.0,360.0,August,Summer
 116,2022-09-10,2022-09-15,5.0,Alex Ng,33.0,Male,Cambodian,Hostel,200.0,Plane,500.0,Cambodia,Phnom Penh,Air,700.0,140.0,September,Fall
 117,2022-02-05,2022-02-14,9.0,Alice Smith,32.0,Female,American,Hotel,1000.0,Plane,700.0,Japan,Tokyo,Air,1700.0,188.89,February,Winter
